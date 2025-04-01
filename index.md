@@ -6,7 +6,13 @@ I am an awesome student at Lehigh, you should hire me!
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+_**[Regression Interpretation Exercises](RegInterp/RegInterp)**_
+
+In this file, I run and interpret a bunch of super advanced regression models to understand house prices.
+
+<img src="RegInterp/output_34_0.png?raw=true"/>
+
+---
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
